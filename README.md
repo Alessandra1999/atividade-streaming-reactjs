@@ -8,7 +8,7 @@
 <h1>Como executar o projeto localmente: </h1>
 
 ### 1. Instalar o Git
-- Se você ainda não tem o Git instalado na sua máquina, faça o download e instale-o.
+- Se você ainda não tem o Git instalado na sua máquina, faça o download e instale-o (https://git-scm.com/downloads).
 
 ### 2. Clonar o Repositório
 - Obter o link do repositório: No GitHub, vá até o repositório que você deseja clonar. Clique no botão verde "Code" e copie o link do repositório (geralmente termina em .git).
@@ -17,7 +17,7 @@
 
 ### 3. Instalar Dependências
 - Verificar se você tem Node.js instalado: Você precisará do Node.js. Verifique se ele está instalado executando: node -v
-- Se o Node.js não estiver instalado, baixe e instale-o a partir de Node.js.
+- Se o Node.js não estiver instalado, baixe e instale-o a partir de Node.js (https://nodejs.org/en/download/package-manager/current).
 
 ### 4. Rodar o Projeto
 - Rodar o servidor de desenvolvimento: Depois de instalar as dependências, você pode iniciar o servidor de desenvolvimento com o comando: npm run dev
