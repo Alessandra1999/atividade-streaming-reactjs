@@ -13,7 +13,7 @@
 ### 2. Clonar o Repositório
 - Obter o link do repositório: No GitHub, vá até o repositório que você deseja clonar. Clique no botão verde "Code" e copie o link do repositório (geralmente termina em .git).
 - Abrir o terminal: No seu sistema operacional, abra o terminal (ou Git Bash no Windows).
-- Clonar o repositório: No terminal, navegue até o diretório onde você quer clonar o projeto e execute o seguinte comando: git clone <link-do-repositorio> (Substitua <link-do-repositorio> pelo link que você copiou.)
+- Clonar o repositório: No terminal, navegue até o diretório onde você quer clonar o projeto e execute o seguinte comando: git clone "link-do-repositorio" (Substitua "link-do-repositorio" pelo link que você copiou.)
 
 ### 3. Instalar Dependências
 - Verificar se você tem Node.js instalado: Você precisará do Node.js. Verifique se ele está instalado executando: node -v
