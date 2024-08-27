@@ -2,23 +2,9 @@ import { useState, useEffect, useContext } from 'react';
 import { VscError } from "react-icons/vsc";
 import styled from 'styled-components';
 import { useNavigate } from 'react-router-dom';
-import Logo from '../assets/imagens/logo.png';
 import Background from '../assets/imagens/background.jpg';
 import FooterLogin from './FooterLogin';
 import HeaderLogin from './HeaderLogin';
-
-const ImgLogo = styled.img`
-    display: block;
-    float: left;
-    position: absolute;
-    margin-left: 17%;
-    margin-top: 20px;
-    width: 200px;  
-
-    @media (max-width: 760px) {
-        margin-left: 30px;
-    }
-`;
 
 const Container = styled.div`
     background-color: rgba(0, 0, 0, 0.75);
